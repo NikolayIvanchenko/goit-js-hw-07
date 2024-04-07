@@ -1,44 +1,44 @@
-
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Task 1</title>
-    <link rel="stylesheet" href="css/common.css" />
+    <link rel="stylesheet" href="./css/common.css" />
   </head>
   <body>
-    <p><a href="index.html">Go back</a></p>
+    <p><a href="./index.html">Go back</a></p>
 
-    <ul id="categories" class="categories-list list">
+    <ul id="categories">
       <li class="item">
-        <h2 class="item-title">Animals</h2>
+        <h2>Animals</h2>
 
-        <ul class="category-list list">
-          <li class="category-list-item">Cat</li>
-          <li class="category-list-item">Hamster</li>
-          <li class="category-list-item">Horse</li>
-          <li class="category-list-item">Parrot</li>
+        <ul>
+          <li>Cat</li>
+          <li>Hamster</li>
+          <li>Horse</li>
+          <li>Parrot</li>
         </ul>
       </li>
       <li class="item">
-        <h2 class="item-title">Products</h2>
+        <h2>Products</h2>
 
-        <ul class="category-list list">
-          <li class="category-list-item">Bread</li>
-          <li class="category-list-item">Prasley</li>
-          <li class="category-list-item">Cheese</li>
+        <ul>
+          <li>Bread</li>
+          <li>Prasley</li>
+          <li>Cheese</li>
         </ul>
       </li>
       <li class="item">
-        <h2 class="item-title">Technologies</h2>
+        <h2>Technologies</h2>
 
-        <ul class="category-list list">
-          <li class="category-list-item">HTML</li>
-          <li class="category-list-item">CSS</li>
-          <li class="category-list-item">JavaScript</li>
-          <li class="category-list-item">React</li>
-          <li class="category-list-item">Node.js</li>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>React</li>
+          <li>Node.js</li>
         </ul>
       </li>
     </ul>
